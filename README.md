@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Natan Silva</h1>
+<h1 align="center">👋 Olá! Eu sou o Natanael Silva</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação | Apaixonado por tecnologia</h3>
 
 ---
