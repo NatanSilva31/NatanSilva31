@@ -55,8 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NatanSilva31&show_icons=true&theme=tokyonight" alt="Natan Silva GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanSilva31&theme=tokyonight" alt="Natan Silva Streak Stats"/>
 </p>
 
 ---
